@@ -5,8 +5,11 @@ node_modules/
 # Production / Build output
 dist/
 build/
+target/
 **/dist/
 **/build/
+**/target/
+*.class
 
 # Logs
 *.log
